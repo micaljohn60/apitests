@@ -24,13 +24,15 @@
       "name" : "JQUERY",
       "id" : 6
     },
-    "githublinks" , [
+    {
+    "githublinks" : [
       {
         "name" : "To Do App ",
         "githublink" : "https://github.com/micaljohn60/To-Do-List-with-django-python-withHeroku",
         "id" : 1
       }
       ]
+    }
     
     ],
     "Backend Development": [
@@ -44,7 +46,8 @@
         "githublink" : "https://github.com/micaljohn60/qawebsite",
         "id" : 2
       },
-      "githublinks" , [
+      {      
+      "githublinks" : [
         {
           "name" : "Tic Tac Toe Game ",
           "githublink" : "https://github.com/micaljohn60/tic_tac_toe_game",
@@ -60,6 +63,8 @@
           "githublink" : "https://github.com/micaljohn60/python-with-django-article-blog-NoHeroku/tree/master/myblog/myblog",
           "id" : 3
         }
-        ]      
+        ]     
+      } 
       ]
+    
 }
