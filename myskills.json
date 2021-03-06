@@ -1,0 +1,24 @@
+{
+  "python": [
+    {
+      "name" : "Tictac Toe",
+      "githublink" : "https://github.com/micaljohn60/tic_tac_toe_game",
+      "id" : 1
+    },
+    {
+      "name" : "QA Website with Django ",
+      "githublink" : "https://github.com/micaljohn60/qawebsite",
+      "id" : 2
+    },
+    {
+      "name" : "Article Blog with Django",
+      "githublink" : "https://github.com/micaljohn60/python-djanog-article-blog-withHeroku",
+      "id" : 3
+    },
+    {
+      "name" : "To Do App ",
+      "githublink" : "https://github.com/micaljohn60/To-Do-List-with-django-python-withHeroku",
+      "id" : 4
+    }
+    ]
+}
