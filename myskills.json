@@ -23,18 +23,17 @@
     {
       "name" : "JQUERY",
       "id" : 6
-    },
-    {
-    "githublinks" : [
+    }    
+    ],
+    
+    "webgithublinks" : [
       {
         "name" : "To Do App ",
         "githublink" : "https://github.com/micaljohn60/To-Do-List-with-django-python-withHeroku",
         "id" : 1
       }
-      ]
-    }
-    
-    ],
+      ],
+      
     "Backend Development": [
       {
         "name" : "PHP",
