@@ -1,76 +1,62 @@
 {
   "WebDevelopment": [
     {
-      "name" : "HTML",
-      "id" : 1
+      "name": "HTML",
+      "id": 1
     },
     {
-      "name" : "HTML5",
-      "id" : 2
+      "name": "HTML5",
+      "id": 2
     },
     {
-      "name" : "CSS",
-      "id" : 3
+      "name": "CSS",
+      "id": 3
     },
     {
-      "name" : "CSS3 ",
-      "id" : 4
+      "name": "CSS3 ",
+      "id": 4
     },
     {
-      "name" : "JAVASCRIPT",
-      "id" : 5
+      "name": "JAVASCRIPT",
+      "id": 5
     },
     {
-      "name" : "JQUERY",
-      "id" : 6
-    }   ,
+      "name": "JQUERY",
+      "id": 6
+    }
+  ],
+  "Backend Development": [
     {
-      "githublink" : [
-        {
-          "name" : null
-        }
-      ]
-    } 
-    ],
-    
-    "webgithublinks" : [
-      {
-        "name" : "To Do App ",
-        "githublink" : "https://github.com/micaljohn60/To-Do-List-with-django-python-withHeroku",
-        "id" : 1
-      }
-      ],
-      
-    "Backend Development": [
-      {
-        "name" : "PHP",
-        "githublink" : "https://github.com/micaljohn60/tic_tac_toe_game",
-        "id" : 1
-      },
-      {
-        "name" : "PYTHON",
-        "githublink" : "https://github.com/micaljohn60/qawebsite",
-        "id" : 2
-      },
-      {      
-      "githublinks" : [
-        {
-          "name" : "Tic Tac Toe Game ",
-          "githublink" : "https://github.com/micaljohn60/tic_tac_toe_game",
-          "id" : 1
-        },
-        {
-          "name" : "QA Website",
-          "githublink" : "https://github.com/micaljohn60/qawebsite",
-          "id" : 2
-        },
-        {
-          "name" : "Article Blog with Django",
-          "githublink" : "https://github.com/micaljohn60/python-with-django-article-blog-NoHeroku/tree/master/myblog/myblog",
-          "id" : 3
-        }
-        ]     
-      } 
-      ]
-    
+      "name": "PHP",
+      "id": 1
+    },
+    {
+      "name": "PYTHON",
+      "id": 2
+    },
+    {
+      "name": "JAVA",
+      "id": 3
+    }
+  ],
+  "Frameworks": [
+    {
+      "name": "Laravel",
+      "id": 1
+    },
+    {
+      "name": "Djanog",
+      "id": 2
+    },
+    {
+      "name": "Reactjs",
+      "id": 3
+    }
+  ],
+  "Mobile Development": [
+    {
+      "name": "Flutter",
+      "id": 1
+    }
+  ]
 }
